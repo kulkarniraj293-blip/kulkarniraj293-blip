@@ -93,28 +93,104 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 🎯 Offensive Security
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logoColor=white)
+### 🎯 Penetration Testing & Offensive Security
+<div>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-green?style=for-the-badge&logoColor=white)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-black?style=for-the-badge&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-4479A1?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF6F00?style=for-the-badge&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0A0A0A?style=for-the-badge&logoColor=white)
 ![Dirb](https://img.shields.io/badge/Dirb-555555?style=for-the-badge&logoColor=white)
 ![Subfinder](https://img.shields.io/badge/Subfinder-0A0A0A?style=for-the-badge&logoColor=white)
 
-### 🧠 Concepts
-`OWASP Top 10` · `CIA Triad` · `TCP/IP` · `DNS` · `HTTP/HTTPS` · `Session Management` · `Access Control` · `Security Misconfigurations` · `OSINT` · `Mobile App Security`
+</div>
 
-### 🖥️ Platforms
+### 🔬 Vulnerability Management
+<div>
+
+![Qualys](https://img.shields.io/badge/Qualys-ED2024?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus_Pro-00B388?style=for-the-badge&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-89C800?style=for-the-badge&logoColor=white)
+![Rapid7 InsightVM](https://img.shields.io/badge/Rapid7_InsightVM-E4002B?style=for-the-badge&logoColor=white)
+![Asimily](https://img.shields.io/badge/Asimily-00ADEF?style=for-the-badge&logoColor=white)
+
+</div>
+
+### ☁️ Cloud & Network Security
+<div>
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![PacketFence](https://img.shields.io/badge/PacketFence_NAC-005B9A?style=for-the-badge&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🔐 AppSec & API Security
+<div>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Fortify SCA](https://img.shields.io/badge/Fortify_SCA-0F4C81?style=for-the-badge&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-54BE45?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</div>
+
+### ⚙️ Languages & Scripting
+<div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+
+### 🖥️ Operating Systems & Platforms
+<div>
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+</div>
+
+### 🧰 Dev Tools & Frameworks
+<div>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
 
 ---
 
@@ -139,13 +215,74 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Badges
 
-- 🎓 Web Application Penetration Testing & Linux Security — **Udemy** (Nov 2024)
-- 🎓 Advent of Cyber 2024 — **TryHackMe** (Dec 2024)
-- 🎓 Bounty Hunt 101 Bootcamp — **Dev-Town**
-- 🎓 Web Browser for Hacking — **RedTeamLeaders**
-- 🎓 Dark Web, Anonymity & Cryptocurrency — **EC-Council**
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="230">
+      <img src="https://img.shields.io/badge/Red_Team_Leaders-CCEP-C4001A?style=for-the-badge&logoColor=white" /><br>
+      <b>Certified Cybersecurity Educator Professional</b><br>
+      <sub>Red Team Leaders · Exam passed · Nov 2025</sub><br>
+      <sub><a href="https://courses.redteamleaders.com/exam-completion/c743495bef001a9e">Verify</a></sub>
+    </td>
+    <td align="center" width="230">
+      <img src="https://img.shields.io/badge/Red_Team_Leaders-Web_Browser_for_Hacking-C4001A?style=for-the-badge&logoColor=white" /><br>
+      <b>Web Browser for Hacking</b><br>
+      <sub>Red Team Leaders · Dec 2025</sub><br>
+      <sub><a href="https://courses.redteamleaders.com/completion/e9d7c1246eca9ee9">Verify</a></sub>
+    </td>
+    <td align="center" width="230">
+      <img src="https://img.shields.io/badge/DevTown_x_MSIT-Bounty_Hunt_101-9B59D0?style=for-the-badge&logoColor=white" /><br>
+      <b>Bounty Hunt 101: Learn the Art of Breaking</b><br>
+      <sub>DevTown × Microsoft Student Chapter MSIT · Jan 2026</sub><br>
+      <sub><a href="https://cert.devtown.in/verify/1hEVJ3">Verify</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TryHackMe-Advent_of_Cyber_2025-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /><br>
+      <b>Advent of Cyber 2025</b><br>
+      <sub>TryHackMe · 24 challenges · Dec 2025<br>ID: THM-IQZAUQMDMF</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white" /><br>
+      <b>Introduction to Cybersecurity</b><br>
+      <sub>Cisco Networking Academy · Jan 2025</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/EC--Council-Dark_Web_%26_Cryptocurrency-red?style=for-the-badge&logoColor=white" /><br>
+      <b>Intro to Dark Web, Anonymity & Cryptocurrency</b><br>
+      <sub>EC-Council · Course completion · Dec 2024<br>Cert No. 379689</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+**Also completed:** Web Application Penetration Testing & Linux Security (Udemy, Nov 2024) · Advent of Cyber 2024 (TryHackMe, Dec 2024)
+
+### 🧩 TryHackMe Badges
+
+![AI Odyssey](https://img.shields.io/badge/AI_Odyssey-C4001A?style=flat-square)
+![Adversarial Defence Ops](https://img.shields.io/badge/Adversarial_Defence_Ops-1F3A5F?style=flat-square)
+![Networking Nerd](https://img.shields.io/badge/Networking_Nerd-B71C1C?style=flat-square)
+![Hash Cracker](https://img.shields.io/badge/Hash_Cracker-4A235A?style=flat-square)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-1565C0?style=flat-square)
+![Webbed](https://img.shields.io/badge/Webbed-555555?style=flat-square)
+![OhSINT](https://img.shields.io/badge/OhSINT-0D1B4C?style=flat-square)
+![World Wide Web](https://img.shields.io/badge/World_Wide_Web-2E7D8C?style=flat-square)
+![Mr. Robot](https://img.shields.io/badge/Mr._Robot-8D5524?style=flat-square)
+![cat linux.txt](https://img.shields.io/badge/cat_linux.txt-F9A825?style=flat-square&logoColor=black)
+![Advent of Cyber 2023](https://img.shields.io/badge/Advent_of_Cyber-2023-2F5DA8?style=flat-square)
+![Advent of Cyber 2024](https://img.shields.io/badge/Advent_of_Cyber-2024-6A1B9A?style=flat-square)
+![Advent of Cyber 2025](https://img.shields.io/badge/Advent_of_Cyber-2025-1E88E5?style=flat-square)
+![180 Day Streak](https://img.shields.io/badge/🔥_180_Day_Streak-00AEEF?style=flat-square)
+![30 Day Streak](https://img.shields.io/badge/🔥_30_Day_Streak-E53935?style=flat-square)
+![7 Day Streak](https://img.shields.io/badge/🔥_7_Day_Streak-43A047?style=flat-square)
+![3 Day Streak](https://img.shields.io/badge/🔥_3_Day_Streak-7CB342?style=flat-square)
+![Raffle Royalty](https://img.shields.io/badge/Raffle_Royalty-FBC02D?style=flat-square&logoColor=black)
 
 ---
 
